@@ -16,5 +16,5 @@ MySQL database of a Airbnb system
 
 It is first necessary to install MySQL on your system. Afterward, the data mart can be used with any MySQL database system. I suggest the MySQL Workbench community version, a free DBMS, that can also open the model file, which is a .mwb file located in the development directory.
 MySQL can be installed from https://dev.mysql.com/downloads/mysql/
-MySQL Workbench can be installed from Here
+MySQL Workbench can be installed from https://dev.mysql.com/downloads/workbench/
 After creating a database connection and a schema, using the data import tool in the server tab, you can import the mydb.sql file, which is in the finalization directory.

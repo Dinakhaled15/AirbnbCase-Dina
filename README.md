@@ -1,4 +1,4 @@
-# AirbnbCase-Dina
+
 # Airbnb datamart project
 
 MySQL database of a Airbnb system 
